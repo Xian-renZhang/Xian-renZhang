@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 * 🎓 I’m a junior at SHNU
-* 🔭 I’m currently learning Java
 * 🪐 I’m trying to be a cool coder
 * 📫 You can contact me by xianrenn.zhang@foxmail.com
 
